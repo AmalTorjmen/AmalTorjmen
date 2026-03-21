@@ -1,5 +1,5 @@
 
-![👋 Hi, my name is Amal Torjmen](https://static.wixstatic.com/media/53fad0_ce0704caa0174d6aa9b2b8101a62fa77~mv2.gif)
+![👋 Hi, my name is Amal Torjmen]()
 
 ![Profile views](https://komarev.com/ghpvc/?username=AmalTorjmen&label=Profile%20views&color=e91e63&style=flat)
 
@@ -23,9 +23,9 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- [cite_start]💼 Currently working on: **Embedded Facial Recognition (ESP-WHO) & Attendance Systems **
+- 💼 I'm currently learning: Network And Telecommunications
 - 🌱 Learning about: **5G Network Architectures & SQL Server Administration**
-- [cite_start]💬 Ask me about: **IoT, Embedded Systems, Flutter, and C/C++ [cite: 38, 39, 57]**
+- 💬 Ask me about: **IoT, Embedded Systems, Flutter, and C/C++**
 
 ---
 
