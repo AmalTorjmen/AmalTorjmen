@@ -7,7 +7,7 @@
 
 # `👋 Hi, my name is Amal Torjmen`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Engineering+Student+%40+INSAT;IoT+%7C+AI+%7C+Embedded+Systems;Building+Smart+%26+Scalable+Systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Engineering+Student+%40+INSAT;IoT+%7C+AI+%7C+Embedded+Systems;Building+Smart+%26+Scalable+Systems+)](https://git.io/typing-svg)
 
 <br/>
 
