@@ -110,9 +110,9 @@ Curious and rigorous — I thrive on technical challenges and dynamic team envir
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmalTorjmen&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&card_width=445" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmalTorjmen&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false" alt="GitHub Stats" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalTorjmen&theme=tokyonight&layout=compact&langs_count=8&hide_border=false&card_width=445" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmalTorjmen&theme=tokyonight&layout=compact&langs_count=8&hide_border=false" alt="Top Languages" />
 
 <br/><br/>
 
