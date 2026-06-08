@@ -110,12 +110,12 @@ Curious and rigorous — I thrive on technical challenges and dynamic team envir
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmalTorjmen&theme=tokyonight&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&line_height=23" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AmalTorjmen&theme=tokyonight&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=AmalTorjmen&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&card_width=445" alt="GitHub Stats" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmalTorjmen&theme=tokyonight&layout=compact&langs_count=8&hide_border=false&card_width=445" alt="Top Languages" />
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AmalTorjmen&theme=tokyonight&hide_border=false&border_radius=5)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=AmalTorjmen&theme=tokyonight&hide_border=false&border_radius=5" alt="GitHub Streak" />
 
 </div>
-
